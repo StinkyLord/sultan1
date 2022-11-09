@@ -1,0 +1,7 @@
+{
+  "extends": ["config:base"],
+  {
+     "matchPackageNames": ["lodash"],
+     "allowedVersions": "<4.17.21"
+  }
+}
