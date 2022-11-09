@@ -1,6 +1,6 @@
 {
   "extends": ["config:base"],
-  "prcreation": "not-pending",
+  "prCreation": "not-pending",
   "packageRules": [
   {
      "matchPackageNames": ["lodash"],
