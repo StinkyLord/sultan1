@@ -4,7 +4,7 @@
   "packageRules": [
   {
      "matchPackageNames": ["lodash"],
-     "allowedVersions": "<4.17.21"
+     "allowedVersions": "<4.17.22"
   }
   ]
 }
