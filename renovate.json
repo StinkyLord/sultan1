@@ -4,7 +4,7 @@
   "packageRules": [
     {
       "matchPackagePatterns": ["eslint", "lodash","six"],
-      "groupName": "eslint",
+      "groupName": "eslint"
     },
   {
      "matchPackageNames": ["lodash"],
