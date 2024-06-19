@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4.17.19",
-    "eslint": "9.3.0"
+    "eslint": "9.3.0",
+    "six": "0.0.6"
   }
 }
