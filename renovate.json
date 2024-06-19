@@ -1,6 +1,10 @@
 {
   "extends": ["config:base"],
   "packageRules": [
+    {
+      "matchPackagePatterns": ["eslint", "lodash"],
+      "groupName": "eslint",
+    },
   {
      "matchPackageNames": ["lodash"],
      "allowedVersions": "<4.17.21"
