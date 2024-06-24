@@ -7,6 +7,6 @@
   "dependencies": {
     "lodash": "4.17.19",
     "six": "0.0.6",
-    "numpy-parser" : "1.0.0"
+    "numpy-parser" : "1.2.3"
   }
 }
